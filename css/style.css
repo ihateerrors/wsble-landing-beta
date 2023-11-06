@@ -361,7 +361,10 @@ li {
   border: 0.5px solid #bababa;
   border-radius: 5px;
   padding: 5px;
+  width: min-content;
+
 }
+
 
 body {
   position: relative;
