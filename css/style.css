@@ -821,3 +821,11 @@ a.thumbnail>img {
   background: #fff;
   border: 2px solid #d6148e;
 }
+
+.carousel-caption {
+  color: #000000;
+}
+
+ul.nogap li {
+  margin: 0 ;
+}
