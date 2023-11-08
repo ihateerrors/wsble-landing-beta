@@ -829,3 +829,13 @@ a.thumbnail>img {
 ul.nogap li {
   margin: 0 ;
 }
+.timelinepage .timeline-wrapper .tl:after {
+  box-shadow: 0 0 0 4px #2a7997;
+  left: -23.85px;
+  background: #2a7997;
+  border-radius: 50%;
+  height: 11px;
+  width: 11px;
+  content: "";
+  top: 7px;
+}
