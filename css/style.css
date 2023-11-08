@@ -839,3 +839,6 @@ ul.nogap li {
   content: "";
   top: 7px;
 }
+.get-involved-icons {
+  border-bottom: 2px solid #d6148e;
+}
