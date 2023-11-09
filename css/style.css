@@ -681,6 +681,10 @@ article.widget-translate select {
   margin: 0;
   font-size: inherit;
 }
+
+.darker-link {
+  color: #1d4861;
+}
 .alt-header {
   background-color: #2b376e;
   color: #fff;
